@@ -1,6 +1,4 @@
-layout: page
-title: ":ru: Потерянная вещь / Lost item :uk:"
-permalink: /lost-item/
+## :ru: Потерянная вещь / Lost item :uk:
 > :ru: Если вы видите данную страницу, значит вы нашли вещь, принадлежащую мне
 
 > :uk: If you see this page, then you have found a thing that belongs to me
