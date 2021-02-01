@@ -13,5 +13,3 @@
 
 **VK**
 > [Кузнецов Виталий](https://vk.com/vpkuznetsov)
-
-****
